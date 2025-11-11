@@ -1,0 +1,42 @@
+What are you doing here?
+Do you need some hints?
+Or do you need to actually know all things?
+This is not how you should play this game i hope you know that...
+Ok go ahead and read it :)
+
+This content includes SPOILERS
+
+Combos:
+    Flame Strike    keys: "zxz" damage: 5
+    Ice Blast       keys: "cvb" damage: 7
+    Shadow Claw     keys: "nmz" damage: 10
+    Darkness        keys: "xzx" damage: 8                                         #made by tester :]  Thx for testing
+    Earthquake      keys: "xnzc" damage: 12
+    Admin           keys: "cvbcvb" damage: 1000000
+
+Items:
+    Item feather        ingredient= True, cost= 5       
+    Item butterfly_wing ingredient= True, cost= 7
+    Item blueberry      ingredient= True, cost= 4
+	Item redberry       ingredient= True, cost= 3
+	Item bone           ingredient= True, cost= 5
+	Item dragonfly_wing ingredient= True, cost= 15
+	Item black_feather  ingredient= True, cost= 10
+	Item brown_feather  ingredient= True, cost= 8
+	Item health_potion  ingredient= False, cost= 40
+    Item lepidra        ingredient= True, cost= 2
+
+Crafting recipes:                                           #ingredient is just a concept doesnt actually work
+    feather + lepidra = knowledge_potion                    ingredient= False, cost= 1
+
+    blueberry + dragonfly_wing = invisibility_potion        ingredient= False, cost= 1
+
+    black_feather + brown_feather + feather + bone = toxin  ingredient= False, cost= 1
+
+    Fail = 	Item ruined_potion                              ingredient= False, cost= 1                             
+
+
+
+Well thats all for now :)
+
+Tomikxik
